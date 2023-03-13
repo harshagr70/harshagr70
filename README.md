@@ -2,13 +2,13 @@
 <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="right"> <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="harshagr70" /> </p>
-
 - 🌱 I’m currently learning **python frameworks**
 
 - 📫 How to reach me **harshagr838@gmail.com**
 
 - ⚡ Fun fact **i think i am funny**
+- <p align="right"> <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="harshagr70" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
