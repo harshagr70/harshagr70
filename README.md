@@ -6,9 +6,6 @@
 
 - 📫 How to reach me **harshagr838@gmail.com**
 
-- <p align="right"> <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="harshagr70" /> </p>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/itsharsh70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsharsh70" height="30" width="40" /></a>
