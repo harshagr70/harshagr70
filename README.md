@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Agrawal</h1>
 
 - 🌱 I’m currently learning **python frameworks**
+- bioinformatics enthusiast 
 - working on devops and cloud native projects
 - open source enthusiast
 
